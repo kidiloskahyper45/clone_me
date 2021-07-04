@@ -1,9 +1,9 @@
-![ARYA](https://telegra.ph/file/33786193486ffda1b20e0.jpg)
+![ARYA](https://telegra.ph/file/c6bfce1fc25d4d53f719c.jpg)
 # ARYA
 
 
-#MAINTAINED BYE
-#@Awalker96
+# MAINTAINED BYE
+# @Awalker96
 Me On Telegram [✨Bot✨](https://t.me/rosebakthan)
 
 ## How To Host
@@ -14,7 +14,7 @@ CREDITS
 ```
 
 
-No one
+# @rosebakthan
 
 
 ```
