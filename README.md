@@ -1,5 +1,5 @@
-![ARYA](https://telegra.ph/file/c6bfce1fc25d4d53f719c.jpg)
-# ARYA
+![ᴍᴏɴɪᴄᴀ](https://telegra.ph/file/10cc24395d1e65bc84e06.jpg)
+
 
 
 # MAINTAINED BYE
