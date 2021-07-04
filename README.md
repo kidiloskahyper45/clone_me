@@ -1,11 +1,9 @@
 ![ARYA](https://telegra.ph/file/33786193486ffda1b20e0.jpg)
 # ARYA
 
-<p align="center">
-  <img src="https://telegra.ph/file/e10cffc0fb14d00be10fb.mp4">
-</p>
 
-# BOT
+#MAINTAINED BYE
+#@Awalker96
 Me On Telegram [✨Bot✨](https://t.me/rosebakthan)
 
 ## How To Host
