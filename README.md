@@ -4,7 +4,7 @@
   <img src="https://telegra.ph/file/e10cffc0fb14d00be10fb.mp4">
 </p>
 
-# YoneRobot
+# BOT
 Me On Telegram [✨Bot✨](https://t.me/rosebakthan)
 
 ## How To Host
