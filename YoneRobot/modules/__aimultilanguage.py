@@ -114,8 +114,8 @@ async def hmm(client, message):
         message.continue_propagation()
     if chat_id in en_chats:
         test = msg
-        test = test.replace("Arya", "Aco")
-        test = test.replace("arya", "Aco")
+        test = test.replace("Monica", "Aco")
+        test = test.replace("Monica", "Aco")
         URL = "https://api.affiliateplus.xyz/api/chatbot?message=hi&botname=@YoneRobot&ownername=@A_viyu"
 
         try:
@@ -177,9 +177,9 @@ async def hmm(client, message):
         # test = emoji.demojize(test.strip())
 
         # Kang with the credits bitches @InukaASiTH
-        test = test.replace("Arya", "Aco")
-        test = test.replace("Arya", "Aco")
-        URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@Stark_girl_bot&ownername=@Awalker96"
+        test = test.replace("Monica", "Aco")
+        test = test.replace("Monica", "Aco")
+        URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@Miss_Monica_bot&ownername=@Awalker96"
         try:
             r = requests.request("GET", url=URL)
         except:
@@ -253,7 +253,7 @@ async def inuka(client, message):
     # Kang with the credits bitches @InukaASiTH
     test = test.replace("yone", "Aco")
     test = test.replace("yone", "Aco")
-    URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@Stark_girl_bot&ownername=@Awalker96"
+    URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@Miss_Monica_bot&ownername=@Awalker96"
     try:
         r = requests.request("GET", url=URL)
     except:
@@ -275,7 +275,7 @@ async def inuka(client, message):
 
 
 @Yone.on_message(
-    filters.regex("Arya|Arya|arya|arya|ARYA")
+    filters.regex("Monica|Monica|monica|monica|MONICA")
     & ~filters.bot
     & ~filters.via_bot
     & ~filters.forwarded
@@ -331,7 +331,7 @@ async def inuka(client, message):
     # Kang with the credits bitches @InukaASiTH
     test = test.replace("yone", "Aco")
     test = test.replace("yone", "Aco")
-    URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@Stark_girl_bot&ownername=@Awalker96"
+    URL = f"https://api.affiliateplus.xyz/api/chatbot?message={test}&botname=@Miss_Monica_bot&ownername=@Awalker96"
     try:
         r = requests.request("GET", url=URL)
     except:
